@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer with a diverse techn
 
 ---
 
-### The tech stack:
+## The tech stack:
 
 **Typescript, Python, C#, HTML/CSS/JS, Express.js, Django, Flask, PostgreSQL, MongoDB, OpenAPI, React, Next.js, Angular, Jest,  Vitest, Supertest, Docker, Git, Tailwind CSS, Tkinter, PyQt5, Solidworks API, TopSolid API**
 
@@ -12,13 +12,13 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer with a diverse techn
 
 You'll find a variety of my personal projects here. Feel free to explore, contribute, and if you’re interested in collaborating on any upcoming or ongoing projects, shoot me a message! Below is a list of what I’m currently working on.
 
-### <u>Personal projects I'm working on:</u>
+## <u>Personal projects I'm working on:</u>
 
-##### Solidworks Web Integration:
+### Solidworks Web Integration:
 
 I'm working on creating a way to interact with Solidworks models through the web. This involves setting up a server with Solidworks that queues model changes and automates schematics generation.
 
-#### Label system:
+### Label system:
 
 The prototype for this project is complete! It’s an app for creating label templates. I’m considering moving from Tkinter to PyQt5 for the next phase before making the repo public. (Or maybe just refactor it to an Electron app)
 
