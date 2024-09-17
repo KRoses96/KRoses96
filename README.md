@@ -20,7 +20,7 @@ I'm working on creating a way to interact with Solidworks models through the web
 
 ### Label system:
 
-The prototype for this project is complete! It’s an app for creating label templates for factories. I’m considering moving from Tkinter to PyQt5 for the next phase before making the repo public. (Or maybe just refactor it to an Electron app), the goal of the app is easily create templates for labels and create pdf labels to swiftly convert pdf files into their actual respective labels.
+The prototype for this project is complete! It’s an app for creating label templates for factories. I’m considering moving from Tkinter to PyQt5 for the next phase before making the repo public. (Or maybe just refactor it to an Electron app), the goal of the app is to easily create templates for labels and create pdf templates to swiftly convert pdf files into their actual respective labels.
 
 ### [Hop(ongoing)](https://github.com/hopwithfriends):
 
