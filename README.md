@@ -3,11 +3,10 @@
 I do some typeScript, python, rust and whatever sledgehammer is needed to fix the problem. 
 
 ---
+## Seeking to Create  
 
-## Must-Have for Every Project
-🚀 npm i [is-ten-thousand](https://www.npmjs.com/package/is-ten-thousand)  
-💖 npm i [uwuifier](https://www.npmjs.com/package/uwuifier)  
-🧠 npm i [oneplusone](https://www.npmjs.com/package/oneplusone)  
+> “The artist is not a special kind of person; rather, each person is a special kind of artist.”  
+> — **Ananda Coomaraswamy**  
 
 ---
 
