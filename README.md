@@ -1,6 +1,6 @@
 # Heyo
 
-I do some typeScript, python, rust and whatever sledgehammer is needed to fix the problem. 
+I do some typescript, python, rust and whatever sledgehammer is needed to fix the problem. 
 
 ---
 ## Seeking to Create  
