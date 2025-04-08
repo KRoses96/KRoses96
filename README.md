@@ -13,7 +13,7 @@ I do some typescript, python, rust and whatever sledgehammer is needed to fix th
 ## What I Actually Do
 - Glue things together and pretend it's magic
 - Integrate APIs, services, and sometimes completely unrelated tech
-- Automate the boring stuff so I can nap more
+- Automate the boring stuff
 - Occasionally write Rust just to suffer
 
 ---
