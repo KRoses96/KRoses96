@@ -6,9 +6,6 @@ I do typescript, python, rust and whatever sledgehammer is needed to fix the pro
 The simpler the better.
 ---
 
----
-
-
 
 ```
 
