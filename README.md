@@ -2,5 +2,4 @@
 
 I do typescript, python, rust and whatever sledgehammer is needed to fix the problem. 
 
----
-The simpler the better.
+`The simpler the better.`
